@@ -9,5 +9,5 @@ dependencies:
   - matplotlib
   - scikit-image
   - tk
-  - liopencv
+  - libopencv
   - ipywidgets
