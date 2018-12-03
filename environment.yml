@@ -2,6 +2,7 @@ name: Segmentation
 channels:
   - conda-forge
 dependencies:
+  - opencv
   - bqplot
   - scikit-learn
   - scipy
